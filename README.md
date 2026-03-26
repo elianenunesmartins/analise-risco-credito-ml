@@ -81,3 +81,33 @@ Aprendizados:
 - Foi necessário refinar os prompts para obter maior profundidade
 - Nem todas as etapas importantes (como tratamento de desbalanceamento) foram incluídas automaticamente
 
+
+# Miniguia de Estudo
+## 📊 Resumo
+
+A análise de risco de crédito consiste em prever a probabilidade de um cliente não cumprir suas obrigações financeiras. Com o uso de Machine Learning, é possível identificar padrões complexos nos dados e melhorar a precisão dessas previsões.
+
+O processo geralmente envolve etapas como pré-processamento de dados, engenharia de variáveis, treinamento de modelos e avaliação com métricas como AUC. Modelos como LightGBM, Random Forest e redes neurais são frequentemente utilizados nesse contexto.
+
+Além da performance, a interpretabilidade dos modelos também é um fator importante, especialmente no setor financeiro, onde decisões precisam ser justificáveis.
+
+## 📖 Glossário
+
+- **Inadimplência**: Falha no pagamento de uma dívida
+- **AUC (Area Under Curve)**: Métrica que avalia a capacidade do modelo de distinguir classes
+- **Feature Engineering**: Criação e seleção de variáveis relevantes
+- **Overfitting**: Quando o modelo aprende demais os dados de treino e perde generalização
+- **LightGBM**: Algoritmo de boosting eficiente para grandes volumes de dados
+- **One-hot encoding**: Técnica para transformar variáveis categóricas em numéricas
+
+  ## 💬 Prompts Reutilizáveis
+
+- "Explique como aplicar Machine Learning em análise de risco de crédito passo a passo"
+- "Compare modelos de classificação utilizados em crédito (LightGBM, Random Forest, etc.)"
+- "Quais métricas são mais adequadas para avaliar modelos de risco de crédito?"
+- "Gere um exemplo prático em Python para análise de risco de crédito com avaliação em AUC"
+
+
+
+
+
