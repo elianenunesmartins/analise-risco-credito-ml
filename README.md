@@ -1,15 +1,20 @@
-# 📄 Contexto
+#  Contexto
 
 Este projeto foi desenvolvido como parte do desafio do Bootcamp de Dados&GenAI da DIO em parceria com o Bradesco, com o objetivo de utilizar Inteligência Artificial como ferramenta de aprendizagem ativa.
 O tema que escolhi foi a aplicação de Machine Learning na análise de risco de crédito, explorado por meio da criação de um caderno temático no NotebookLM.
 
 
-# 🎯 Objetivo
+#  Objetivo
 
-Entender como modelos de Machine Learning são utilizados para prever inadimplência
-Comparar diferentes algoritmos aplicados ao risco de crédito
-Analisar métricas utilizadas na avaliação dos modelos
+Entender como modelos de Machine Learning são utilizados para prever inadimplência \
+Comparar diferentes algoritmos aplicados ao risco de crédito \
+Analisar métricas utilizadas na avaliação dos modelos \
 Explorar a importância da explicabilidade em modelos financeiros
+
+##  Notebook
+
+Acesse o caderno temático desenvolvido no NotebookLM: \
+https://notebooklm.google.com/notebook/5723f379-e4fa-448f-a488-546c110368c5
 
 # Curadoria de Fontes
 
@@ -35,7 +40,7 @@ https://arxiv.org/abs/2009.13384
 
 Durante o desenvolvimento do projeto, foram testados diferentes tipos de prompts para avaliar como o nível de detalhamento impacta a qualidade das respostas.
 
-### 🔹 Prompt 1 — Abordagem geral
+###  Prompt 1 — Abordagem geral
 
 "Explique como Machine Learning é aplicado na análise de risco de crédito"
 
@@ -48,7 +53,7 @@ Aprendizados:
 
 ---
 
-### 🔹 Prompt 2 — Com direcionamento
+###  Prompt 2 — Com direcionamento
 
 "Explique como aplicar Machine Learning na análise de risco de crédito utilizando um dataset real, descrevendo passo a passo"
 
@@ -61,7 +66,7 @@ Aprendizados:
 
 ---
 
-### 🔹 Prompt 3 — Aplicação prática
+###  Prompt 3 — Aplicação prática
 
 "Gere um exemplo prático em Python para análise de risco de crédito, incluindo pré-processamento, treinamento e avaliação com AUC"
 
@@ -83,7 +88,7 @@ Aprendizados:
 
 
 # Miniguia de Estudo
-## 📊 Resumo
+##  Resumo
 
 A análise de risco de crédito consiste em prever a probabilidade de um cliente não cumprir suas obrigações financeiras. Com o uso de Machine Learning, é possível identificar padrões complexos nos dados e melhorar a precisão dessas previsões.
 
@@ -91,7 +96,7 @@ O processo geralmente envolve etapas como pré-processamento de dados, engenhari
 
 Além da performance, a interpretabilidade dos modelos também é um fator importante, especialmente no setor financeiro, onde decisões precisam ser justificáveis.
 
-## 📖 Glossário
+##  Glossário
 
 - **Inadimplência**: Falha no pagamento de uma dívida
 - **AUC (Area Under Curve)**: Métrica que avalia a capacidade do modelo de distinguir classes
@@ -100,7 +105,7 @@ Além da performance, a interpretabilidade dos modelos também é um fator impor
 - **LightGBM**: Algoritmo de boosting eficiente para grandes volumes de dados
 - **One-hot encoding**: Técnica para transformar variáveis categóricas em numéricas
 
-  ## 💬 Prompts Reutilizáveis
+  ##  Prompts Reutilizáveis
 
 - "Explique como aplicar Machine Learning em análise de risco de crédito passo a passo"
 - "Compare modelos de classificação utilizados em crédito (LightGBM, Random Forest, etc.)"
